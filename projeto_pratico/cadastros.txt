@@ -1,0 +1,4 @@
+Luan;21
+Vinicius;20
+Luan Luan;80
+Vinicius Vinicius;54
